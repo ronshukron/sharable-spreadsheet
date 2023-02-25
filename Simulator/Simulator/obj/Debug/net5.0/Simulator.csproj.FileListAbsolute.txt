@@ -1,0 +1,16 @@
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.csproj.AssemblyReference.cache
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.AssemblyInfo.cs
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\Simulator.exe
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\Simulator.deps.json
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.json
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\Simulator.runtimeconfig.dev.json
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\Simulator.dll
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\ref\Simulator.dll
+C:\Users\shukr\source\repos\Simulator\Simulator\bin\Debug\net5.0\Simulator.pdb
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.dll
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\ref\Simulator.dll
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.pdb
+C:\Users\shukr\source\repos\Simulator\Simulator\obj\Debug\net5.0\Simulator.genruntimeconfig.cache
